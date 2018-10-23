@@ -1,6 +1,6 @@
 <template lang="pug">
  #app
-  img(src="./assets/logo.png")
+  img(src="https://raw.githubusercontent.com/bilsanramirez/platzimusic/master/dist/logo.png")
   h1 PlatziMusic
   spinner(v-show="loading")
   select(v-model="selectedCountry")
