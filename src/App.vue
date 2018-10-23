@@ -10,8 +10,8 @@
 </template>
 
 <script>
-import Artista from './components/Artistas';
-import Spinner from './components/Spinner';
+import Artista from 'https://github.com/bilsanramirez/platzimusic/tree/master/src/componentsArtistas';
+import Spinner from 'https://github.com/bilsanramirez/platzimusic/tree/master/src/componentsSpinner';
 import getAtistas from './api';
 
 export default {
